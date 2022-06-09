@@ -8,7 +8,6 @@ set (plugins_available
   csc
   density
   doboz
-  fari
   fastlz
   gipfeli
   heatshrink
